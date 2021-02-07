@@ -1,0 +1,29 @@
+{
+  "lekarze": [
+        {
+          "imie": "Kamil",
+          "nazwisko": "Witkowski",
+          "numertel": "0760166174"
+        },
+        {
+          "imie": "Katarzyna",
+          "nazwisko": "Witkowska",
+          "numertel": "0707198897"
+        },
+         {
+          "imie": "Adam",
+          "nazwisko": "Witkowski",
+          "numertel": "0707198897"
+        }, 
+        {
+          "imie": "Bartek",
+          "nazwisko": "Witkowski",
+          "numertel": "0707198897"
+        },
+        {
+          "imie": "Zuzanna",
+          "nazwisko": "Witkowska",
+          "numertel": "0707198897"
+        } 
+  ]
+}
